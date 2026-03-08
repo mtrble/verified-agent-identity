@@ -5,11 +5,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'mtrble'
+        description: 'mekypranata@gmail.com'
         required: true
-        default: 'mtrble'
+        default: 'mekypranata@gmail.com'
       agent_description:
-        description: 'mtrble'
+        description: 'mekypranata@gmail.com'
         required: true
         default: 'mtrble AI Agent'
 
